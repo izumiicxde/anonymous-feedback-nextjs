@@ -1,5 +1,3 @@
-## README.md
-
 # Anonymous Feedback Platform
 
 A full-stack web application that enables users to collect feedback anonymously via shareable form links. Built with Next.js, MongoDB, NextAuth, and OpenAI integration, the platform supports secure authentication, anonymous form submissions, AI-enhanced feedback moderation, and email notifications.
