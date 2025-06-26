@@ -33,8 +33,7 @@ A full-stack web application that enables users to collect feedback anonymously 
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/random-feedback-platform.git
-
+git clone https://github.com/izumiicxde/anonymous-feedback-nextjs.git
 cd random-feedback-platform
 
 ### 2. Install dependencies
